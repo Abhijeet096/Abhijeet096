@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>🔭 I'm currently working on MERN Stack projects<br>🤝 I'm looking to collaborate on Open Source & Web Development projects<br>🌱 I'm currently learning Next.js, Node.js, Express.js, and DSA with Java<br>💬 Ask me about React.js, JavaScript, HTML, CSS, and Git<br>🎯 Goal: Become a Full Stack Developer and build impactful applications<br>⚡ Fun fact: I enjoy turning ideas into real-world web applications.
+👨‍💻 About Me<br><br>🔭 I'm currently working on MERN Stack projects<br>🤝 I'm looking to collaborate on Open Source & Web Development projects<br>🌱 I'm currently learning Next.js, Node.js, Express.js, and DSA with C++<br>💬 Ask me about React.js, JavaScript, HTML, CSS, and Git<br>🎯 Goal: Become a Full Stack Developer and build impactful applications<br>⚡ Fun fact: I enjoy turning ideas into real-world web applications.
 
 
 ## 🌐 Socials:
